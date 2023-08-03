@@ -1,0 +1,22 @@
+{
+  "name": "paysis_typescript",
+  "description": "About project\r This is an example of a simple test framework setup for REST API automated tests with tech stack:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatvalverde/paysis_typescript.git"
+  },
+  "keywords": [],
+  "author": "Tati Valverde",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.4.0",
+    "jest": "29.6.2",
+    "ts-jest": "29.1.1",
+    "typescript": "5.1.6"
+  }
+}
